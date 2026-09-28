@@ -67,7 +67,7 @@ Esta es tu lista de mercado: ['Arroz', 'Pasta', 'Crema de leche', 'Plátano']
 ## 👤 Autor
 
 **Kevin Vargas**
-Ingeniero de Sistemas, autodidacta y apasionado por aprender programación paso a paso.
+Ingeniero de Sistemas, autodidacta y apasionado a la psicología, filosofía y adquisición conocimiento
 
 ### Contacto
 
