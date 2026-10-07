@@ -1,8 +1,6 @@
 # 🛒 Registro de Mercado
 
-Mi primer proyecto en Python: un programa de consola para administrar una lista de mercado.
-
-Lo hice el **primer día que empecé a programar** 🚀
+Mi primer proyecto en Python: un programa de consola para administrar una lista de mercado.🚀
 
 ## 📋 Descripción
 
